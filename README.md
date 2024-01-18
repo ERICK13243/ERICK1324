@@ -10,8 +10,8 @@
 </a>
 <p align="center"> 
 <a href="https://github.com/ERICK13243/BOT-C.D.R"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=13&duration=8000&color=[00FF00]&center=falso&vCenter=falso&lines=𝑴𝑰𝑺++𝑷𝑹𝑶𝒀𝑬𝑪𝑻𝑶𝑺" height="120px"></a> 
-  
 </p>
+
 <a href="[https://github.com/ERICK13243/BOT-C.D.R]">![github card](https://github-readme-stats.vercel.app/api/pin/?username=ERICK13243&repo=BOT-C.D.R&theme=omni)</a>
 
 <p align="center"> 
